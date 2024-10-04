@@ -514,11 +514,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 427ef538e7155fc428766e97c89f0ec7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controller: {fileID: 0}
+  controller: {fileID: 1280997248}
   speed: 12
   gravity: -19.62
   jumpHeight: 3
-  groundCheck: {fileID: 0}
+  groundCheck: {fileID: 661935048}
   groundDistance: 0.4
   groundMask:
     serializedVersion: 2
@@ -571,5 +571,5 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 705507995}
-  - {fileID: 661935048}
   - {fileID: 1280997249}
+  - {fileID: 661935048}
